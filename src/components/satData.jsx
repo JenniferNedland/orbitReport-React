@@ -1,4 +1,4 @@
-const satData = [
+export const satData = [
    {
      id: 1,
      name: "Sirius 1",
@@ -81,4 +81,4 @@ const satData = [
    }
  ];
  
- export default satData;
+//  export default satData;
